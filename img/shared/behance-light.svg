@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">   
+    <title>Behance</title>
+    <desc></desc>
+    <defs></defs>
+    <g id="behance" stroke="#FFFFFF" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g sketch:type="MSArtboardGroup" transform="translate(-845.000000, -16086.000000)" stroke-width="1.5">
+            <g sketch:type="MSLayerGroup" transform="translate(846.000000, 16087.000000)">
+                <path d="M12,16 L12,27.04" id="Stroke-1" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                <path d="M18.1773409,16 L12,16 L12,21.70672 L18.1773409,21.70672 C19.7442273,21.70672 21.0147273,20.42896 21.0147273,18.85264 C21.0147273,17.27584 19.7442273,16 18.1773409,16 L18.1773409,16 Z" stroke-linecap="round"></path>
+                <path d="M18.6546136,22 L12,22 L12,27.70672 L18.6546136,27.70672 C20.2215,27.70672 21.492,26.42896 21.492,24.8536 C21.492,23.27776 20.2215,22 18.6546136,22 L18.6546136,22 Z" stroke-linecap="round"></path>
+                <path d="M32.0445455,26.0848 C31.2980909,26.83456 30.26575,27.29968 29.1269773,27.29968 C26.8465682,27.29968 25,25.4416 25,23.15056 C25,20.85808 26.8465682,19 29.1269773,19 C31.405,19 33.2525227,20.85808 33.2525227,23.15056" stroke-linecap="round"></path>
+                <path d="M25,23 L32.1891591,23" id="Stroke-9" stroke-linecap="round"></path>
+                <path d="M25,16 L32.2774545,16" id="Stroke-11" stroke-linecap="round"></path>
+                <circle id="Oval-40-Copy" sketch:type="MSShapeGroup" cx="22" cy="22" r="22"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
